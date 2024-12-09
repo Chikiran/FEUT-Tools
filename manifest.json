@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "FEU TECH Tools",
+  "version": "1.0",
+  "description": "Tools for FEU TECH Student Portal. Extract Schedule as CSV, and Calculate GWA. WIP",
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://students.feutech.edu.ph/accounts/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "feutechtools@chikiran"
+    }
+  }
+}
