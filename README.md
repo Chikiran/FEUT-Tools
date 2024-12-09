@@ -11,11 +11,8 @@
 
 ## Installation
 
-### Chrome
-<p align="left">
-    🌐 <a href="https://chromewebstore.google.com">
-    </a>
-</p>
+### Chromium
+🌐 [Chrome Web Store](https://chromewebstore.google.com)
 
 ### Other Browsers
 - Download the extension ZIP file from the [releases page](https://github.com/Chikiran/FEUT-Tools/releases).
