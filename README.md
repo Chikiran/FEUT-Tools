@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github_icon.png" alt="FEU TECH Tools" />
+  <img src="FITTools.png" alt="FEU TECH Tools" />
 </div>
 
 # FEU TECH Tools
