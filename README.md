@@ -12,9 +12,10 @@
 ## Installation
 
 ### Chrome
-- Visit the [Chrome Web Store](https://chrome.google.com/webstore/).
-- Search for "FEU TECH Tools".
-- Click on "Add to Chrome" to install the extension.
+<p align="left">
+    🌐 <a href="https://chromewebstore.google.com">
+    </a>
+</p>
 
 ### Other Browsers
 - Download the extension ZIP file from the [releases page](https://github.com/Chikiran/FEUT-Tools/releases).
