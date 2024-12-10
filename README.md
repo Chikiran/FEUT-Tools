@@ -12,7 +12,7 @@
 ## Installation
 
 ### Chromium
-🌐 [Chrome Web Store](https://chromewebstore.google.com)
+🌐 [Chrome Web Store](https://chromewebstore.google.com/detail/feu-tech-tools/cgeddmfhnoonnegcmjllmjjndpgipdmj?authuser=0&hl=en)
 
 ### Other Browsers
 - Download the extension ZIP file from the [releases page](https://github.com/Chikiran/FEUT-Tools/releases).
